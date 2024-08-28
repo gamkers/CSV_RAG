@@ -4,11 +4,10 @@ import matplotlib.pyplot as plt
 from pandasai import SmartDataframe
 from langchain_groq.chat_models import ChatGroq
 import os
-from dotenv import load_dotenv
+
 from io import StringIO, BytesIO
 
-# Load environment variables
-load_dotenv()
+
 
 # Initialize ChatGroq with API key from environment
 llm = ChatGroq(model_name='llama3-70b-8192', api_key='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')
