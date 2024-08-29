@@ -3,4 +3,5 @@ pandasai
 langchain_groq
 matplotlib
 streamlit
+numpy
 
