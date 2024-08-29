@@ -64,7 +64,7 @@ def main():
                     if str(type(result)) == "<class 'int'>":
                         st.write(result)
                     elif str(type(result)) == "<class 'str'>":
-                        st.write(result)
+                        st.image(result, use_column_width=True)
                     elif str(type(result)) == "<class 'numpy.int64'>":
                         
                         st.write(result)
