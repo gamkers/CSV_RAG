@@ -68,7 +68,7 @@ def main():
                     elif str(type(result)) == "<class 'numpy.int64'>":
                         
                         st.write(result)
-                    elif "/mount/src/csv_rag/exports/charts/temp_chart.png":
+                    elif "/mount/src/csv_rag/exports/charts/temp_chart.png" in result:
                         st.image(result, use_column_width=True)
                     
                     else:
