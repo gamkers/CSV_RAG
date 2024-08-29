@@ -1,5 +1,5 @@
 google-generativeai
-
+streamlit
 langchain_google_genai
 
 streamlit-cookies-manager
@@ -62,5 +62,4 @@ langchain_groq
 
 matplotlib
 
-streamlit
 
