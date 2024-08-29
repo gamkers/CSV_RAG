@@ -1,6 +1,5 @@
 setuptools
-
-numpy==1.23.5
+numpy
 pandasai
 langchain_groq
 matplotlib
