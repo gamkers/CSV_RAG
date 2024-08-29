@@ -64,11 +64,11 @@ def main():
                     if str(type(result)) == "<class 'int'>":
                         st.write(result)
                     elif str(type(result)) == "<class 'str'>":
-                        st.image(result, use_column_width=True)
+                        st.write(result)
                     elif str(type(result)) == "<class 'numpy.int64'>":
                         
                         st.write(result)
-                    elif "/mount/src/csv_rag/exports/charts/temp_chart.png" in result:
+                    elif str(result)=="/mount/src/csv_rag/exports/charts/temp_chart.png":
                         st.image(result, use_column_width=True)
                     
                     else:
