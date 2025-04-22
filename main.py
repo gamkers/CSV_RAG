@@ -36,7 +36,7 @@ def process_data(df,query ):
 
 
 def main():
-    st.title('ClearVision- By Rajesh')
+    st.title('ClearVision')
     
     uploaded_file = st.file_uploader("Upload a file", type=["csv", "xlsx"])
     
