@@ -52,6 +52,8 @@ filelock==3.6.0
 
 trycourier==4.4.0
 
+pandas
+numpy
 
 pandasai
 seaborn
