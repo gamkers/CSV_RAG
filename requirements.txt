@@ -55,7 +55,7 @@ trycourier==4.4.0
 numpy
 pandas
 
-pandasai
+pandasai==3.0.0b2
 seaborn
 plotly
 langchain_groq
