@@ -56,7 +56,8 @@ numpy
 pandas
 
 pandasai
-
+seaboarn
+plotly
 langchain_groq
 
 matplotlib
