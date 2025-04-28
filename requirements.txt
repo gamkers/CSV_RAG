@@ -59,7 +59,7 @@ plotly
 langchain_groq
 
 matplotlib
-pandas
-numpy 
+pandas==2.2.3
+numpy=2.2.5
 
 
