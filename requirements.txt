@@ -52,14 +52,14 @@ filelock==3.6.0
 
 trycourier==4.4.0
 
-
+pandas==2.2.3
 pandasai==2.4.2
 seaborn
 plotly
 langchain_groq
 
 matplotlib
-pandas==2.2.3
-numpy==2.2.5
+
+
 
 
