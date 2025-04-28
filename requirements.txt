@@ -60,6 +60,6 @@ langchain_groq
 
 matplotlib
 pandas==2.2.3
-numpy=2.2.5
+numpy==2.2.5
 
 
