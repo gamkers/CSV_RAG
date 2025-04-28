@@ -53,7 +53,7 @@ filelock==3.6.0
 trycourier==4.4.0
 
 
-pandasai==2.2.12
+pandasai==2.4.2
 seaborn
 plotly
 langchain_groq
