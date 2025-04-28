@@ -57,7 +57,7 @@ pandasai==2.4.2
 seaborn
 plotly
 langchain_groq
-
+numpy==1.26.4
 matplotlib
 
 
